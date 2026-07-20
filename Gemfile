@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem "base64"
 gem "jekyll"
 gem "kramdown-parser-gfm"
 gem "html-proofer"
